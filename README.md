@@ -9,7 +9,7 @@ HOW TO USE ?
 
 you can watch my tutorial in my youtube video
 
-link : coming soon !
+link : https://youtu.be/SP7841kmiCI 
 
 this script need to :
 
